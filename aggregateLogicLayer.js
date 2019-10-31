@@ -64,5 +64,5 @@ const mapThroughAndAverage = newDataCollection => {
 console.log(
   mapThroughAndAverage(
     mapThroughApiResponse('gamesPerSeason', getData(), dummyData)
-    )
+  )
 );
